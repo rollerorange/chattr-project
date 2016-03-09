@@ -59,7 +59,7 @@ if (isset($_POST['loginButton']))
 			<form action="login.php" method="post">
 				<p><input type="text" id="username" name="username" placeholder="Gebruikersnaam"></p>
 				<p><input type="password" id="password" name="password" placeholder="Wachtwoord"></p>
-				<p><button name="loginButton" class="btn-success">Registreren</button></p>
+				<p><button name="loginButton" class="btn-success">Inloggen</button></p>
 			</form>
 		</div>
 
